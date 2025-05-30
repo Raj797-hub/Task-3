@@ -1,7 +1,7 @@
 # Task 3: Basic Vulnerability Scan
 
 ## Overview
-This repository contains the results of a vulnerability assessment performed on a personal computer as part of Task 3 of the Eleyate Cyber Security Internship.
+This repository contains the results of a vulnerability assessment performed on a personal computer as part of Task 3 of the Elevate Cyber Security Internship.
 
 ## Objective
 Use free vulnerability scanning tools to identify common vulnerabilities on a personal computer and document findings.
